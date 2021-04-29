@@ -1,9 +1,7 @@
 .jumbotron {
-    padding: 2rem 1rem;
-    margin-bottom: 2rem;
+
     background-color: mediumpurple;
-    border-radius: .3rem;
-  }
+}
 .row-header {
 
     margin: 0px auto;
