@@ -54,7 +54,7 @@ body {
   z-index: 1; }
 
 #loginButton :hover {
-  text-shadow: 1px 1px 1px floralwhite; }
+  text-shadow: -1px -1px 0px floralwhite; }
 
 .modal .modal-header {
   background: #512DA8;
